@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="graartefakt" />
+              <option name="title_text" value="artefakt_sh" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1238,12 +1238,9 @@
             <slidelink slideid="_player.6PUabn1Bl6l.5gcMXvbCIFX" displaytext="tytul" expand="false" type="slide" />
             <slidelink slideid="_player.6PUabn1Bl6l.6m7Z8wTY34g" displaytext="ksiega" expand="false" type="slide" />
             <slidelink slideid="_player.6PUabn1Bl6l.6KfdDZ7BNRm" displaytext="instr_wejscie" expand="false" type="slide" />
-            <slidelink slideid="_player.6PUabn1Bl6l.6dhlE8XxHAx" displaytext="komnata 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6PUabn1Bl6l.5tI0QP9UClV" displaytext="komnata 2" expand="false" type="slide" />
             <slidelink slideid="_player.6PUabn1Bl6l.6AsYIn8WhDi" displaytext="komnata 4" expand="false" type="slide" />
             <slidelink slideid="_player.6PUabn1Bl6l.5j5nuS8Gzhb" displaytext="komnata 5" expand="false" type="slide" />
             <slidelink slideid="_player.6PUabn1Bl6l.5tlEltKqozv" displaytext="antena_wjazd" expand="false" type="slide" />
-            <slidelink slideid="_player.6PUabn1Bl6l.5VP6N3D5Ucz" displaytext="komnata 3" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6FMEQdF0Ndo" displaytext="karty" expand="true" type="slide">
